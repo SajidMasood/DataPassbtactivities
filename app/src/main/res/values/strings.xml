@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data Pass b/t activities</string>
+    <string name="btn_text">Go to other Activity</string>
+    <string name="btn_text1">Go Back</string>
+</resources>
